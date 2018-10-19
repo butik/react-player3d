@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - 6
+  - 7
+  - 8
+install:
+  - cd player3d
+  - npm install
+script:
+  - npm test
+cache:
+  yarn: true
+  npm: true
