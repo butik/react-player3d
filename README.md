@@ -1,4 +1,8 @@
 # Player3D на React
+
+[![Build Status](https://travis-ci.com/butik/react-player3d.svg?branch=master)](https://travis-ci.com/butik/react-player3d)
+
+
 3D плеер на React для демонстрации товаров на 360° с использованием canvas через покадровую смену фотографий. Используется Canvas, как наиболее подходящий инструмент для управления пиксельными изображениями.
 
 **Принимает параметры:**
